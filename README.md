@@ -2,7 +2,8 @@
 
 ## ShadowsocksAddCustomRule
 
- V0.0.2
+为 Shadowsocks 添加自定义代理规则
+
 
 ![](./pictures/1.png)
 
