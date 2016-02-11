@@ -18,3 +18,11 @@
 将参数位规则加入代理列表中
 
 > 默认 user-rules.txt 位于/User/当前用户名/.ShadowsocksX
+
+## Turn to ITerm
+
+触发快捷键shift＋option＋command＋I
+
+V 1.0.0
+
+打开ITerm2
